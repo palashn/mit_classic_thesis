@@ -1,6 +1,11 @@
-Modified version of Andrew Miede's classic thesis to fit MIT's thesis requirement - palash@media
+Modified version of Andrew Miede's classic thesis to fit MIT's thesis requirement - palash@media 7/6/16
+
+See Example.pdf for a preview
 
 Compiles with TeX Live (http://tug.org/texlive) version 2015
+
+
+-------------------
 
 Here are the files you need to change to adapt this for your thesis:
 
